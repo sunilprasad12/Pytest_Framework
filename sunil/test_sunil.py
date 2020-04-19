@@ -10,3 +10,6 @@ def test_sunil_H1():
 @mark.reg
 def test_sunil_Job():
     assert True
+
+def test_newPlan():
+    pass
