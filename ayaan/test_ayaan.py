@@ -10,3 +10,8 @@ class TestAyaan:
 
     def test_ayaan_firetruck(self):
         pass
+
+@mark.skip
+def test_ayaan_car():
+    pass
+
